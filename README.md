@@ -11,4 +11,7 @@ I did **NOT** pick this repo name.
 
 ## About
 
-This section talks about this project.
+Some key things I aim to learn:
+- Git & GitHub
+- Collaboration
+  - Sharing branches
