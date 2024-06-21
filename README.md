@@ -11,4 +11,4 @@ I did **NOT** pick this repo name.
 
 ## About
 
-This section talks about this project.
+This project is for learning git and github
