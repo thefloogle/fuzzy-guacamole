@@ -8,3 +8,7 @@ I did **NOT** pick this repo name.
     flowchart LR
         Can --> | You | See
     ```
+
+## About
+
+This section talks about this project.
