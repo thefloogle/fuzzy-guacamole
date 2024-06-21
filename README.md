@@ -11,4 +11,7 @@ I did **NOT** pick this repo name.
 
 ## About
 
-This project is for learning git and github
+Some key things I aim to learn:
+- Git & GitHub
+- Collaboration
+  - Sharing branches
